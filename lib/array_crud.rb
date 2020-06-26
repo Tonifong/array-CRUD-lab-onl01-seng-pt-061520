@@ -6,7 +6,6 @@ def create_an_array
   ["San", "Daniel", "Sadan", "Jimmy" ]
 end
 
-require 'pry'
 def add_element_to_end_of_array(array, element)
  array << element
   
@@ -15,9 +14,10 @@ end
 def add_element_to_start_of_array(array, element)
   array.unshift(element)
 end
-
+require 'pry'
 def remove_element_from_end_of_array(array)
-  bindind.pry
+  
+  bindinf.pry
   
 end
 
