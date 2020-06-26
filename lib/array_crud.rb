@@ -17,7 +17,7 @@ end
 require 'pry'
 def remove_element_from_end_of_array(array)
   
-  bindinf.pry
+  binding.pry
   
 end
 
